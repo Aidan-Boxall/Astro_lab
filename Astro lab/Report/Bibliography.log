@@ -1,0 +1,25 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2014.12.21)  27 APR 2015 14:28
+entering extended mode
+**C:/Users/Aidan/OneDrive/Documents/Imperial_College/Year_3/Astro*lab/Report/Bi
+bliography.bib
+
+("C:/Users/Aidan/OneDrive/Documents/Imperial_College/Year_3/Astro lab/Report/Bi
+bliography.bib"
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.7 @BOOK{lab_
+              script,
+? 
+! Emergency stop.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.7 @BOOK{lab_
+              script,
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
